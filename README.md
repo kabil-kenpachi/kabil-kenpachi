@@ -1,67 +1,71 @@
 ### Hi there 👋
 
-I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-tarek-alabd)) for Flutter & Dart, and Subject-Matter Expert at [Variiance](https://variiance.com).
+I'm **Kabil Souissi**, a computer science student at **ISIMM (Institut Supérieur d’Informatique et de Mathématiques de Monastir)** and an aspiring **Flutter & Full-Stack Developer**.
 
+- 🎓 I'm currently a **3rd year Computer Science student**.
+- 💻 I’m passionate about **mobile and web development**.
+- 🚀 I’m working on improving my skills in **Flutter and modern web technologies**.
+- 🌱 Currently learning more about **Mobile Development, Backend, and Software Architecture**.
+- 🎯 My goal is to become a **Senior Flutter Developer** and build impactful applications.
+- 🎥 I’m planning to create a **YouTube channel to teach programming**.
+- 🤝 I’m open to collaborating on **open-source projects**.
 
-- 🔭 I’m currently working on improving my skills as a software engineer.
-- 🌱 I’m currently curious about mobile and backend development.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [C++](https://www.cplusplus.com/), [Python](https://www.python.org/).
-- 📫 How to reach me:
+---
 
-	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd)
-  [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
-  [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://tarekalabd.com)
-  [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net)
+### 🛠️ Tech Stack
 
-  
-### Some Projects
-- **TaskedIn Schooling** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod)) ([IOS](https://apps.apple.com/app/id1610527915))
-- **Sanad** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp)) ([IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495))
-- **Mega Books** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megabooks)) ([IOS](https://apps.apple.com/us/app/mega-books/id1596646061))
-- **Mega Trust Jobs** ([Android](https://play.google.com/store/apps/details?id=co.megatrust.jobs)) ([IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894))
-- **Mega Trust Employees** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.employee))
-- **Elwaha Delivery** ([Android](https://play.google.com/store/apps/details?id=com.kaspr.elwahadelivery2&hl=en_US&gl=US))
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- TailwindCSS
 
-### Github Stats
-[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
+**Mobile**
+- Flutter
+- Dart
 
-### Want to support?
- 
-Do you find my work to be of a value for you?
-You can support me, buy me a **Book**, or a **Coffee**.
+**Programming Languages**
+- Python
+- C++
+- Java
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarekalabd)
+**Tools**
+- Git & GitHub
+- VS Code
+- Android Studio
+- Firebase
 
+---
 
-<!--
-**TarekAlabdTest/TarekAlabdTest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Currently Learning
 
-Here are some ideas to get you started:
+- Advanced **Flutter Development**
+- **Mobile App Architecture**
+- **Backend Development**
+- **System Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!--
-**kabil-kenpachi/kabil-kenpachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabil-kenpachi&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-kenpachi&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+
+- GitHub: https://github.com/kabil-kenpachi
+- LinkedIn: (add your linkedin here)
+- Email: (add your email here)
+
+---
+
+⭐ *Always learning, always building.*
